@@ -1,0 +1,12 @@
+gdown
+pandas
+scikit-learn
+scipy 
+opencv-python
+seaborn
+imgaug
+SimpleITK
+dask
+diagnostics
+opencv-python
+imutils
