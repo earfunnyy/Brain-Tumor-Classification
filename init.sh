@@ -1,14 +1,3 @@
-pip install gdown
-pip install pandas
-pip install scikit-learn
-pip install scipy 
-pip install opencv-python
-pip install seaborn
-pip install imgaug
-pip install SimpleITK
-pip install dask
-pip install diagnostics
-
 git config --global user.email "irfani.muhammaddaffa@gmail.com"
 git config --global user.name "earfunnyy"
 
