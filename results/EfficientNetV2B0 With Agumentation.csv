@@ -1,0 +1,2 @@
+Model Name,Loss,Accuracy,F1 Score,Training Time
+EfficientnetV2B0 with Augmentation Full Trainable,9.637273024054593e-07,1.0,1.0,396.7491133213043

@@ -1,0 +1,9 @@
+Model Name,Loss,Accuracy,F1 Score,Training Time
+EfficientnetV2B0 Without Augmentation Trainable First 25% Layer,1.5757566870888695e-05,1.0,1.0,217.56013417243958
+EfficientnetV2B0 Without Augmentation Trainable First 50% Layer,1.661876740399748e-05,1.0,1.0,203.34835195541382
+EfficientnetV2B0 Without Augmentation Trainable First 75% Layer,6.281139212660491e-05,1.0,1.0,190.125736951828
+EfficientnetV2B0 Without Augmentation Trainable Last 25% Layer,1.3820240383211058e-05,1.0,1.0,122.53901529312134
+EfficientnetV2B0 Without Augmentation Trainable Last 50% Layer,4.726618954009609e-06,1.0,1.0,156.69936680793762
+EfficientnetV2B0 Without Augmentation Trainable Last 75% Layer,7.495792715417338e-07,1.0,1.0,186.4150025844574
+EfficientnetV2B0 Without Augmentation Full Trainable,5.49849232811539e-07,1.0,1.0,235.98364686965942
+EfficientnetV2B0 Without Augmentation Not Trainable,0.030884044244885445,0.9901620149612427,0.9901620149612427,104.80994391441345

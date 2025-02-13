@@ -1,0 +1,2 @@
+Model Name,Loss,Accuracy,F1 Score,Training Time
+EfficientnetV2M With Augmentation Trainable Last 75% Layer,2.130013285750465e-07,1.0,1.0,1089.5565857887268
